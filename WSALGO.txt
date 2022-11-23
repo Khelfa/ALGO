@@ -4,7 +4,7 @@ VAR
     Sentence : STRING;
     sum : INTEGER := 0;
 BEGIN
-
+    Write("Type a sentence please")
     Read(Sentence);
 
     WHILE(Sentence[i] <> ".") DO
